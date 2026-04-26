@@ -102,7 +102,10 @@ Cuando el sistema recibe un problema, sigue este flujo:
 Desarrollado en **48 horas** durante el Hackathon III URJC:
 
 - **Raúl Pajares Leis** — Universidad de Salamanca
-- *(resto de compañeros del equipo)*
+- **Rodrigo Montero Cid** — Universidad de Salamanca
+- **Javier Ayllón González** — Universidad Rey Juan Carlos
+- **Nicolás Alonso Bugarín** — Universidad Rey Juan Carlos
+- **Carlos Mosqueda Cardenete** — Universidad Rey Juan Carlos
 
 Agradecimientos a **Antonio Chapinal Reyes** y **Victoria Farama** por la mentoría, y a la **Universidad Rey Juan Carlos** por acoger el evento y proporcionar acceso a **Hostinger Horizons**.
 
